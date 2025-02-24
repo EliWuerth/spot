@@ -11,6 +11,7 @@
 cd spot_env
 
 ## spot-sdk
+* git clone https://github.com/boston-dynamics/spot-sdk.git
 * cd spot-sdk
 * cd python/examples/**Any File**
 * python3 -m pip install -r requirements.txt
