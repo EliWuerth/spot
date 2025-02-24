@@ -13,6 +13,7 @@ cd spot_env
 ## spot-sdk
 * git clone https://github.com/boston-dynamics/spot-sdk.git
 * cd spot-sdk
+* git reset --hard 665de1bc1467c86e97cca9df905aa6e9a2c0a5a8
 * cd python/examples/**Any File**
 * python3 -m pip install -r requirements.txt
 * python3 **Any File**.py **Spot's IP**
